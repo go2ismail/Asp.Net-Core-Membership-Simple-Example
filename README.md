@@ -3,7 +3,7 @@ Simple example implementation of membership using Asp.Net Core Mvc that will all
 
 # Screenshots
 
-![membership](src/src/wwwroot/images/membership.png)
+![membership](coderush/wwwroot/images/membership.png)
 
 # Supported by CodeRush.Co
 [CodeRush.CO] source code collections (https://coderush.co)
