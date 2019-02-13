@@ -6,4 +6,4 @@ Simple example implementation of membership using Asp.Net Core Mvc that will all
 ![membership](coderush/wwwroot/images/membership.png)
 
 # Supported by CodeRush.Co
-[CodeRush.CO] source code collections (https://coderush.co)
+[CodeRush.CO] source code collections (https://coderush.co). 50% Off All Products, Use Discount Code **GITHUB50**
